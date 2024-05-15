@@ -1,15 +1,21 @@
-<h1 align="center"> Olá! Bem-vindo ao Repositório de Algoritmos e Estruturas de Dados II </h1>
-
-<p align="center">
+<h1 align="center"> 🧩 Algoritmos e Estruturas de Dados II 🧩 <br>
   <img src="https://img.shields.io/badge/UNIFESP-Universidade%20Federal%20de%20S%C3%A3o%20Paulo-215a36" alt="UNIFESP">
-  <img src="https://img.shields.io/badge/Jo%C3%A3o%20Victor%20Assaoka%20Ribeiro-2024-215a36" alt="João Victor Assaoka">
-</p>
+  <img src="https://img.shields.io/badge/Jo%C3%A3o%20Victor%20Assaoka%20Ribeiro-2024.1-215a36" alt="João Victor Assaoka">
+</h1>
 
-# Materiais:
-📁 Em Breve...
+<p align="justify">
+&emsp;&emsp;  Seja bem-vindo ao Repositório de Algoritmos e Estruturas de Dados II! Aqui você encontrará materiais e exercícios do curso ministrado no 1º semestre de 2024 na UNIFESP (Universidade Federal de São Paulo).</p>
 
 
-# Sobre o Autor:
+
+# 📁 Materiais:
+| **Nº** |           **Conteúdo Abordado**            |                                                              **Link para o Material**                                                              |
+| :----: | :----------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   1    | Análise Assintótica e Relações Recorrência | <a href="./[  1 ] Análise Assintótica e Relações Recorrência/"><img src="https://img.shields.io/badge/Ver_Material-215a36" alt="Ver_Material"></a> |
+|   2    |         Métodos de Ordenação O(N²)         |        <a href="./[  2 ] Métodos de Ordenação O(N^2)/"><img src="https://img.shields.io/badge/Ver_Material-5f5f5f" alt="Ver_Material"></a>         |
+
+
+# 👨‍💻 Sobre o Autor:
 <img src="https://avatars.githubusercontent.com/u/130188340?s=200&u=83c9d36fc760730d693236248c76d9464e4b92fc&v=4" alt="Minha Foto" align="left" width="15%" height="15%" style="margin-right: 10px">
 
 <p align="justify">
@@ -20,4 +26,4 @@
 
 </p>
 
-##
+---
